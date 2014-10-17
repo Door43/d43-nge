@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nge:home|Door43 (nge)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nge|d43-nge repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nge/archive/master.zip|d43-nge.zip]]
+
+**Recent Changes**
+{{changes>ns = nge}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nge|Ethnologue data]]
+
